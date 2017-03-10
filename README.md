@@ -2,7 +2,7 @@
 testing out this github thing
 ## Instructions
 
-Implement a program that prints out 'Hello, World!'
+Implement a program that prints out "Hello, world!"
 
 ## Rubric
 * Must compile
